@@ -1,6 +1,3 @@
-package day1;
-//wap to print sum of two number 
-
 public class Calculation {
 
 	public static void main(String[] args) {
