@@ -1,4 +1,3 @@
-package day1;
 //wap to ask three numbers from user and print their sum 
 //java.util = package name 
 //Scanner = Class name 
